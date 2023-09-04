@@ -2,11 +2,11 @@
 
 I'm Nicholas, a software developer with experience in robotics and SaaS products.
 
+On a cold day, it's all the same except it's cold outside.
+
 Check out my portfolio at (soon TM) [nicholaswengel.com](https://nicholaswengel.com)! The [code is here](https://github.com/NinjaPerson24119/PortfolioWebsite). It's built with React and Vite.
 
-On a sunny day, you can find me reading a book with some ☕, or developing the latest project I've dreamed up (also with ☕). In fact, you'll probably find me with ☕ most of the time 😁.
-
-On a cold day, it's all the same except it's cold outside.
+On a sunny day, you can find me reading a book with some ☕, or developing the latest project I've dreamed up (also with ☕). In fact, you'll probably find me with coffee most of the time 😁.
 
 ## Here's some of my projects:
 - [Finance Aggregator](https://github.com/NinjaPerson24119/FinanceAggregator) aggregates financial data from multiple sources. 😧 Can't handle the hassle of standardizing the 😠 umpteen 😠 CSV formats your banks use?  This is the app for you! 
