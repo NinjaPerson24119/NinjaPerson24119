@@ -1,6 +1,6 @@
 ## 🌎 Nice to meet you! 🍁
 
-I'm Nicholas, a software developer with experience in robotics and SaaS products.
+###  I'm Nicholas, a software developer with experience in robotics and SaaS products.
 
 On a sunny day, you can find me reading a book with some ☕, or developing the latest project I've dreamed up (also with ☕). In fact, you'll probably find me with coffee most of the time 😁.
 
