@@ -2,11 +2,13 @@
 
 I'm Nicholas, a software developer with experience in robotics and SaaS products.
 
+On a sunny day, you can find me reading a book with some ☕, or developing the latest project I've dreamed up (also with ☕). In fact, you'll probably find me with coffee most of the time 😁.
+
 On a cold day, it's all the same except it's cold outside. ❄️⛄
 
-Check out my portfolio at (soon TM) [nicholaswengel.com](https://nicholaswengel.com)! The [code is here](https://github.com/NinjaPerson24119/PortfolioWebsite). It's built with React and Vite.
+Sometimes I like to just shake things up and pick something new. Like the time I was on a cheerleading team for a year. 💪
 
-On a sunny day, you can find me reading a book with some ☕, or developing the latest project I've dreamed up (also with ☕). In fact, you'll probably find me with coffee most of the time 😁.
+Check out my portfolio at (soon TM) [nicholaswengel.com](https://nicholaswengel.com)! The [code is here](https://github.com/NinjaPerson24119/PortfolioWebsite). It's built with React and Vite.
 
 ## Here's some of my projects:
 - [Finance Aggregator](https://github.com/NinjaPerson24119/FinanceAggregator) aggregates financial data from multiple sources. Can't handle the hassle of standardizing the 😠 umpteen 😠 CSV formats your banks use?  This tool might be for you! 
