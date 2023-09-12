@@ -8,7 +8,7 @@ On a cold day, it's all the same except it's cold outside. ❄️⛄
 
 Sometimes I like to just shake things up and pick something new. Like the time I was on a cheerleading team for a year. 💪
 
-Check out my portfolio at (soon) [nicholaswengel.com](https://nicholaswengel.com)! The [code is here](https://github.com/NinjaPerson24119/PortfolioWebsite). It's built with React and Vite.
+Check out my portfolio at [nicholaswengel.com](https://nicholaswengel.com)! The [code is here](https://github.com/NinjaPerson24119/PortfolioWebsite). It's built with React and Vite.
 
 ## Here's some of my projects:
 | Project | Description |
